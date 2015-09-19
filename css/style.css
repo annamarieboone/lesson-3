@@ -121,3 +121,9 @@ a:hover {
 	background-color: #DFDFE1;
 	color: #9f9f9f;
 }
+
+span {
+	background-color: #DFDFE1;
+	border-radius: 1px;
+	font-family: monospace;
+}
